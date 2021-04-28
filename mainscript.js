@@ -44,7 +44,7 @@ $(document).ready(function () {
     });
 
     var typed = new Typed(".type-2", {
-        strings: ["Front-end Developer", "Ui Designer","Tea Lover"],
+        strings: ["Front-end Developer", "Ui Designer", "Tea Lover"],
         typeSpeed: 60,
         backSpeed: 30,
         cursorChar: '_',
